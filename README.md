@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to QUEST
 
 You can use the [editor on GitHub](https://github.com/captain2b/IT_SUBBOTNIK_QUEST/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
